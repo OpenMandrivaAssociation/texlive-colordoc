@@ -55,3 +55,18 @@ provided, including a non-color option designed for printing
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Tue Jan 03 2012 Paulo Andrade <pcpa@mandriva.com.br> 20100606-2
++ Revision: 750371
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20100606-1
++ Revision: 718096
+- texlive-colordoc
+- texlive-colordoc
+- texlive-colordoc
+- texlive-colordoc
+- texlive-colordoc
+
