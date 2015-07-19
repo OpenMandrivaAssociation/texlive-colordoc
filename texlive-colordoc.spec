@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-colordoc
 Version:	20100606
-Release:	9
+Release:	10
 Summary:	Coloured syntax highlights in documentation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/colordoc
