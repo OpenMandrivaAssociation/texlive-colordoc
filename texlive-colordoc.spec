@@ -5,9 +5,9 @@ Summary:	Coloured syntax highlights in documentation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/colordoc
 License:	LPPL1
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/colordoc.r18270.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/colordoc.doc.r18270.tar.xz
-Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/colordoc.source.r18270.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/colordoc.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/colordoc.doc.r%{version}.tar.xz
+Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/colordoc.source.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
