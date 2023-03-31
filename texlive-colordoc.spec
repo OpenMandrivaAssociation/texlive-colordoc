@@ -1,6 +1,6 @@
 Name:		texlive-colordoc
 Version:	18270
-Release:	1
+Release:	2
 Summary:	Coloured syntax highlights in documentation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/colordoc
