@@ -3,7 +3,7 @@ Version:	18270
 Release:	2
 Summary:	Coloured syntax highlights in documentation
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/colordoc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/colordoc
 License:	LPPL1
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/colordoc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/colordoc.doc.r%{version}.tar.xz
